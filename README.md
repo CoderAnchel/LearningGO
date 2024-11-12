@@ -3,6 +3,19 @@ Learning GOLANG by doing projects and discovering different ways to do things! ð
 
 # Welcome
 
+```jsx live
+export default function App() {
+  return (
+    <div className="App">
+      <h1>Hello CodeSandbox</h1>
+      <h2>Start editing to see some magic happen!</h2>
+    </div>
+  );
+}
+```
+
+#
+
 This is a **live demo** of MDXEditor with all default features on.
 
 > The overriding design goal for Markdownâ€™s formatting syntax is to make it as readable as possible.
