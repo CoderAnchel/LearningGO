@@ -1,4 +1,5 @@
 # Working with CSV FILES in GO 🦦
+![1_AoO5hLnLRZvU2zSqyko-Ow](https://github.com/user-attachments/assets/181126da-1181-4c17-8acf-08d27171e4b3)
 
 *Since I became interested in learning Go, the possibility of **creating CLIs** has really caught my attention, so I set out to create the most basic CLI in history—a **TO-DO list using Cobra.** If you think about this problem, you'll realize that **you need somewhere to store that information**, and the best option in this case is a **small CSV file** that can be downloaded with the terminal tool. So, I started exploring how to use CSV with Go, and here are my experiments.*
 ### Creating CSV File
